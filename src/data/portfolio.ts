@@ -154,8 +154,7 @@ export const achievements: Achievement[] = [
 ];
 
 export const siteConfig = {
-  // [ADD_DEPLOYED_URL] — replace with your real domain once deployed (e.g. Vercel URL or custom domain)
-  url: "https://debarshimaity.vercel.app",
+  url: "https://my-portfolio-knhd.onrender.com",
   title: "Debarshi Maity — Backend-Focused Software Engineer",
   description:
     "Portfolio of Debarshi Maity, a backend-focused full-stack engineer building real-time systems, distributed backends, and AI-assisted developer tools.",
